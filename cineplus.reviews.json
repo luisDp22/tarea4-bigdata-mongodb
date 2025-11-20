@@ -1,0 +1,1841 @@
+[{
+  "_id": {
+    "$oid": "691f6fc3e787d1b02c92dc40"
+  },
+  "user_id": "user_1001",
+  "user_name": "Carlos Ruiz",
+  "movie_title": "Inception",
+  "movie_year": 2010,
+  "rating": 5,
+  "review_text": "Mind-blowing concept and execution!",
+  "genres": [
+    "Sci-Fi",
+    "Action",
+    "Thriller"
+  ],
+  "helpful_votes": 23,
+  "timestamp": "2024-01-10T14:20:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f6fc3e787d1b02c92dc41"
+  },
+  "user_id": "user_1002",
+  "user_name": "Ana Martínez",
+  "movie_title": "The Shawshank Redemption",
+  "movie_year": 1994,
+  "rating": 5,
+  "review_text": "Una de las mejores películas de todos los tiempos.",
+  "genres": [
+    "Drama"
+  ],
+  "helpful_votes": 45,
+  "timestamp": "2024-01-12T09:15:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f6fc3e787d1b02c92dc42"
+  },
+  "user_id": "user_1003",
+  "user_name": "John Doe",
+  "movie_title": "The Dark Knight",
+  "movie_year": 2008,
+  "rating": 4,
+  "review_text": "Heath Ledger's performance was incredible.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "helpful_votes": 67,
+  "timestamp": "2024-01-08T16:45:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f6fc3e787d1b02c92dc43"
+  },
+  "user_id": "user_1004",
+  "user_name": "Laura Chen",
+  "movie_title": "Spirited Away",
+  "movie_year": 2001,
+  "rating": 5,
+  "review_text": "Magical and beautiful animation.",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "helpful_votes": 31,
+  "timestamp": "2024-01-14T11:20:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f6fc3e787d1b02c92dc44"
+  },
+  "user_id": "user_1005",
+  "user_name": "Pedro López",
+  "movie_title": "Parasite",
+  "movie_year": 2019,
+  "rating": 5,
+  "review_text": "Brillante crítica social con un guion perfecto.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "helpful_votes": 52,
+  "timestamp": "2024-01-09T19:30:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f7114e787d1b02c92dc47"
+  },
+  "user_id": "user_1006",
+  "user_name": "Sarah Johnson",
+  "movie_title": "Pulp Fiction",
+  "movie_year": 1994,
+  "rating": 4,
+  "review_text": "Iconic and revolutionary filmmaking.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "helpful_votes": 38,
+  "timestamp": "2024-01-11T13:10:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f7114e787d1b02c92dc48"
+  },
+  "user_id": "user_1007",
+  "user_name": "Miguel Ángel",
+  "movie_title": "El Laberinto del Fauno",
+  "movie_year": 2006,
+  "rating": 5,
+  "review_text": "Obra maestra del cine fantástico español.",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "War"
+  ],
+  "helpful_votes": 29,
+  "timestamp": "2024-01-13T15:45:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f7114e787d1b02c92dc49"
+  },
+  "user_id": "user_1008",
+  "user_name": "Emma Wilson",
+  "movie_title": "Forrest Gump",
+  "movie_year": 1994,
+  "rating": 4,
+  "review_text": "Heartwarming story with great performances.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "helpful_votes": 41,
+  "timestamp": "2024-01-07T10:20:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f7114e787d1b02c92dc4a"
+  },
+  "user_id": "user_1009",
+  "user_name": "David Kim",
+  "movie_title": "The Matrix",
+  "movie_year": 1999,
+  "rating": 5,
+  "review_text": "Changed sci-fi forever.",
+  "genres": [
+    "Sci-Fi",
+    "Action"
+  ],
+  "helpful_votes": 58,
+  "timestamp": "2024-01-15T18:30:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f7114e787d1b02c92dc4b"
+  },
+  "user_id": "user_1010",
+  "user_name": "Elena Vargas",
+  "movie_title": "Coco",
+  "movie_year": 2017,
+  "rating": 5,
+  "review_text": "Emotiva representación de la cultura mexicana.",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "helpful_votes": 47,
+  "timestamp": "2024-01-16T14:15:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f7114e787d1b02c92dc4c"
+  },
+  "user_id": "user_1011",
+  "user_name": "Robert Chen",
+  "movie_title": "The Godfather",
+  "movie_year": 1972,
+  "rating": 5,
+  "review_text": "The perfect crime drama.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "helpful_votes": 72,
+  "timestamp": "2024-01-05T20:10:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f7114e787d1b02c92dc4d"
+  },
+  "user_id": "user_1012",
+  "user_name": "Isabel García",
+  "movie_title": "La La Land",
+  "movie_year": 2016,
+  "rating": 4,
+  "review_text": "Hermosa música y coreografías.",
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "helpful_votes": 33,
+  "timestamp": "2024-01-17T16:40:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f7114e787d1b02c92dc4e"
+  },
+  "user_id": "user_1013",
+  "user_name": "Mike Thompson",
+  "movie_title": "Interstellar",
+  "movie_year": 2014,
+  "rating": 5,
+  "review_text": "Amazing visuals and scientific accuracy.",
+  "genres": [
+    "Sci-Fi",
+    "Adventure",
+    "Drama"
+  ],
+  "helpful_votes": 61,
+  "timestamp": "2024-01-14T12:25:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f7114e787d1b02c92dc4f"
+  },
+  "user_id": "user_1014",
+  "user_name": "Carmen Reyes",
+  "movie_title": "Roma",
+  "movie_year": 2018,
+  "rating": 4,
+  "review_text": "Fotografía impresionante y actuaciones conmovedoras.",
+  "genres": [
+    "Drama"
+  ],
+  "helpful_votes": 28,
+  "timestamp": "2024-01-18T11:30:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f7114e787d1b02c92dc50"
+  },
+  "user_id": "user_1015",
+  "user_name": "James Wilson",
+  "movie_title": "Avengers: Endgame",
+  "movie_year": 2019,
+  "rating": 4,
+  "review_text": "Perfect conclusion to the saga.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "helpful_votes": 89,
+  "timestamp": "2024-01-06T15:50:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f714ce787d1b02c92dc52"
+  },
+  "user_id": "user_1016",
+  "user_name": "Laura Martínez",
+  "movie_title": "Titanic",
+  "movie_year": 1997,
+  "rating": 4,
+  "review_text": "Historia de amor épica inolvidable.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "helpful_votes": 55,
+  "timestamp": "2024-01-19T09:15:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f714ce787d1b02c92dc53"
+  },
+  "user_id": "user_1017",
+  "user_name": "Thomas Brown",
+  "movie_title": "Fight Club",
+  "movie_year": 1999,
+  "rating": 5,
+  "review_text": "Mind-bending and thought-provoking.",
+  "genres": [
+    "Drama"
+  ],
+  "helpful_votes": 67,
+  "timestamp": "2024-01-20T14:20:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f714ce787d1b02c92dc54"
+  },
+  "user_id": "user_1018",
+  "user_name": "Ana Silva",
+  "movie_title": "Black Panther",
+  "movie_year": 2018,
+  "rating": 5,
+  "review_text": "Cultural milestone in superhero cinema.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "helpful_votes": 74,
+  "timestamp": "2024-01-21T16:35:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f714ce787d1b02c92dc55"
+  },
+  "user_id": "user_1019",
+  "user_name": "Carlos Mendoza",
+  "movie_title": "El Secreto de Sus Ojos",
+  "movie_year": 2009,
+  "rating": 5,
+  "review_text": "Una de las mejores películas argentinas.",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "helpful_votes": 42,
+  "timestamp": "2024-01-22T10:45:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f714ce787d1b02c92dc56"
+  },
+  "user_id": "user_1020",
+  "user_name": "Jennifer Lee",
+  "movie_title": "The Social Network",
+  "movie_year": 2010,
+  "rating": 4,
+  "review_text": "Brilliant screenplay and acting.",
+  "genres": [
+    "Biography",
+    "Drama"
+  ],
+  "helpful_votes": 38,
+  "timestamp": "2024-01-23T13:55:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f714ce787d1b02c92dc57"
+  },
+  "user_id": "user_1021",
+  "user_name": "Diego Torres",
+  "movie_title": "Relatos Salvajes",
+  "movie_year": 2014,
+  "rating": 5,
+  "review_text": "Hilarante y intensa de principio a fin.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "helpful_votes": 51,
+  "timestamp": "2024-01-24T17:10:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f714ce787d1b02c92dc58"
+  },
+  "user_id": "user_1022",
+  "user_name": "Lisa Wang",
+  "movie_title": "Spider-Man: Into the Spider-Verse",
+  "movie_year": 2018,
+  "rating": 5,
+  "review_text": "Revolutionary animation style.",
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "helpful_votes": 63,
+  "timestamp": "2024-01-25T19:25:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f714ce787d1b02c92dc59"
+  },
+  "user_id": "user_1023",
+  "user_name": "Javier López",
+  "movie_title": "Los Olvidados",
+  "movie_year": 1950,
+  "rating": 4,
+  "review_text": "Obra maestra del cine mexicano.",
+  "genres": [
+    "Drama"
+  ],
+  "helpful_votes": 19,
+  "timestamp": "2024-01-26T08:40:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f714ce787d1b02c92dc5a"
+  },
+  "user_id": "user_1024",
+  "user_name": "Brian Taylor",
+  "movie_title": "The Departed",
+  "movie_year": 2006,
+  "rating": 5,
+  "review_text": "Masterclass in crime thriller.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "helpful_votes": 48,
+  "timestamp": "2024-01-27T15:05:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f714ce787d1b02c92dc5b"
+  },
+  "user_id": "user_1025",
+  "user_name": "Sofía Hernández",
+  "movie_title": "Como Agua para Chocolate",
+  "movie_year": 1992,
+  "rating": 4,
+  "review_text": "Romántica y llena de magia realista.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "helpful_votes": 36,
+  "timestamp": "2024-01-28T12:20:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f717ce787d1b02c92dc5d"
+  },
+  "user_id": "user_1026",
+  "user_name": "Kevin Smith",
+  "movie_title": "Whiplash",
+  "movie_year": 2014,
+  "rating": 5,
+  "review_text": "Intense and powerful performances.",
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "helpful_votes": 57,
+  "timestamp": "2024-01-29T18:30:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f717ce787d1b02c92dc5e"
+  },
+  "user_id": "user_1027",
+  "user_name": "Patricia Cruz",
+  "movie_title": "Y Tu Mamá También",
+  "movie_year": 2001,
+  "rating": 4,
+  "review_text": "Road movie mexicana con profundidad.",
+  "genres": [
+    "Drama",
+    "Adventure"
+  ],
+  "helpful_votes": 44,
+  "timestamp": "2024-01-30T14:45:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f717ce787d1b02c92dc5f"
+  },
+  "user_id": "user_1028",
+  "user_name": "Daniel White",
+  "movie_title": "Get Out",
+  "movie_year": 2017,
+  "rating": 5,
+  "review_text": "Brilliant social commentary horror.",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "helpful_votes": 69,
+  "timestamp": "2024-01-31T16:00:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f717ce787d1b02c92dc60"
+  },
+  "user_id": "user_1029",
+  "user_name": "Mariana Ortega",
+  "movie_title": "Amores Perros",
+  "movie_year": 2000,
+  "rating": 5,
+  "review_text": "Impactante y bien estructurada.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "helpful_votes": 52,
+  "timestamp": "2024-02-01T10:15:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f717ce787d1b02c92dc61"
+  },
+  "user_id": "user_1030",
+  "user_name": "Alex Johnson",
+  "movie_title": "Mad Max: Fury Road",
+  "movie_year": 2015,
+  "rating": 5,
+  "review_text": "Action masterpiece from start to finish.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "helpful_votes": 78,
+  "timestamp": "2024-02-02T13:30:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f717ce787d1b02c92dc62"
+  },
+  "user_id": "user_1031",
+  "user_name": "Gabriela Morales",
+  "movie_title": "El Crimen del Padre Amaro",
+  "movie_year": 2002,
+  "rating": 3,
+  "review_text": "Polémica pero interesante.",
+  "genres": [
+    "Drama"
+  ],
+  "helpful_votes": 22,
+  "timestamp": "2024-02-03T15:45:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f717ce787d1b02c92dc63"
+  },
+  "user_id": "user_1032",
+  "user_name": "Ryan Cooper",
+  "movie_title": "Dune",
+  "movie_year": 2021,
+  "rating": 4,
+  "review_text": "Epic sci-fi with stunning visuals.",
+  "genres": [
+    "Sci-Fi",
+    "Adventure",
+    "Drama"
+  ],
+  "helpful_votes": 65,
+  "timestamp": "2024-02-04T17:00:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f717ce787d1b02c92dc64"
+  },
+  "user_id": "user_1033",
+  "user_name": "Lucía Ramírez",
+  "movie_title": "Roma",
+  "movie_year": 2018,
+  "rating": 5,
+  "review_text": "Alfonso Cuarón en su mejor momento.",
+  "genres": [
+    "Drama"
+  ],
+  "helpful_votes": 47,
+  "timestamp": "2024-02-05T11:15:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f717ce787d1b02c92dc65"
+  },
+  "user_id": "user_1034",
+  "user_name": "Jason Miller",
+  "movie_title": "The Batman",
+  "movie_year": 2022,
+  "rating": 4,
+  "review_text": "Dark and gritty reboot done right.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "helpful_votes": 71,
+  "timestamp": "2024-02-06T14:30:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f717ce787d1b02c92dc66"
+  },
+  "user_id": "user_1035",
+  "user_name": "Elena Castro",
+  "movie_title": "Instructions Not Included",
+  "movie_year": 2013,
+  "rating": 4,
+  "review_text": "Comedia dramática que te hace reír y llorar.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "helpful_votes": 39,
+  "timestamp": "2024-02-07T16:45:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f725ce787d1b02c92dc68"
+  },
+  "user_id": "user_1006",
+  "user_name": "Sarah Johnson",
+  "movie_title": "Pulp Fiction",
+  "movie_year": 1994,
+  "rating": 4,
+  "review_text": "Iconic and revolutionary filmmaking.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "helpful_votes": 38,
+  "timestamp": "2024-01-11T13:10:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f725ce787d1b02c92dc69"
+  },
+  "user_id": "user_1007",
+  "user_name": "Miguel Ángel",
+  "movie_title": "El Laberinto del Fauno",
+  "movie_year": 2006,
+  "rating": 5,
+  "review_text": "Obra maestra del cine fantástico español.",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "War"
+  ],
+  "helpful_votes": 29,
+  "timestamp": "2024-01-13T15:45:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f725ce787d1b02c92dc6a"
+  },
+  "user_id": "user_1008",
+  "user_name": "Emma Wilson",
+  "movie_title": "Forrest Gump",
+  "movie_year": 1994,
+  "rating": 4,
+  "review_text": "Heartwarming story with great performances.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "helpful_votes": 41,
+  "timestamp": "2024-01-07T10:20:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f725ce787d1b02c92dc6b"
+  },
+  "user_id": "user_1009",
+  "user_name": "David Kim",
+  "movie_title": "The Matrix",
+  "movie_year": 1999,
+  "rating": 5,
+  "review_text": "Changed sci-fi forever.",
+  "genres": [
+    "Sci-Fi",
+    "Action"
+  ],
+  "helpful_votes": 58,
+  "timestamp": "2024-01-15T18:30:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f725ce787d1b02c92dc6c"
+  },
+  "user_id": "user_1010",
+  "user_name": "Elena Vargas",
+  "movie_title": "Coco",
+  "movie_year": 2017,
+  "rating": 5,
+  "review_text": "Emotiva representación de la cultura mexicana.",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "helpful_votes": 47,
+  "timestamp": "2024-01-16T14:15:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f725ce787d1b02c92dc6d"
+  },
+  "user_id": "user_1011",
+  "user_name": "Robert Chen",
+  "movie_title": "The Godfather",
+  "movie_year": 1972,
+  "rating": 5,
+  "review_text": "The perfect crime drama.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "helpful_votes": 72,
+  "timestamp": "2024-01-05T20:10:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f725ce787d1b02c92dc6e"
+  },
+  "user_id": "user_1012",
+  "user_name": "Isabel García",
+  "movie_title": "La La Land",
+  "movie_year": 2016,
+  "rating": 4,
+  "review_text": "Hermosa música y coreografías.",
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "helpful_votes": 33,
+  "timestamp": "2024-01-17T16:40:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f725ce787d1b02c92dc6f"
+  },
+  "user_id": "user_1013",
+  "user_name": "Mike Thompson",
+  "movie_title": "Interstellar",
+  "movie_year": 2014,
+  "rating": 5,
+  "review_text": "Amazing visuals and scientific accuracy.",
+  "genres": [
+    "Sci-Fi",
+    "Adventure",
+    "Drama"
+  ],
+  "helpful_votes": 61,
+  "timestamp": "2024-01-14T12:25:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f725ce787d1b02c92dc70"
+  },
+  "user_id": "user_1014",
+  "user_name": "Carmen Reyes",
+  "movie_title": "Roma",
+  "movie_year": 2018,
+  "rating": 4,
+  "review_text": "Fotografía impresionante y actuaciones conmovedoras.",
+  "genres": [
+    "Drama"
+  ],
+  "helpful_votes": 28,
+  "timestamp": "2024-01-18T11:30:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f725ce787d1b02c92dc71"
+  },
+  "user_id": "user_1015",
+  "user_name": "James Wilson",
+  "movie_title": "Avengers: Endgame",
+  "movie_year": 2019,
+  "rating": 4,
+  "review_text": "Perfect conclusion to the saga.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "helpful_votes": 89,
+  "timestamp": "2024-01-06T15:50:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f72e9e787d1b02c92dc73"
+  },
+  "user_id": "user_1040",
+  "user_name": "Carlos Mendez",
+  "movie_title": "Gravity",
+  "movie_year": 2013,
+  "rating": 4,
+  "review_text": "Tensión constante en el espacio.",
+  "genres": [
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "helpful_votes": 44,
+  "timestamp": "2024-02-08T10:20:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f72e9e787d1b02c92dc74"
+  },
+  "user_id": "user_1041",
+  "user_name": "Linda Garcia",
+  "movie_title": "The Silence of the Lambs",
+  "movie_year": 1991,
+  "rating": 5,
+  "review_text": "Masterful psychological thriller.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "helpful_votes": 68,
+  "timestamp": "2024-02-09T14:35:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f72e9e787d1b02c92dc75"
+  },
+  "user_id": "user_1042",
+  "user_name": "Roberto Diaz",
+  "movie_title": "Biutiful",
+  "movie_year": 2010,
+  "rating": 4,
+  "review_text": "Javier Bardem increíble como siempre.",
+  "genres": [
+    "Drama"
+  ],
+  "helpful_votes": 37,
+  "timestamp": "2024-02-10T16:50:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f72e9e787d1b02c92dc76"
+  },
+  "user_id": "user_1043",
+  "user_name": "Amanda Lee",
+  "movie_title": "Eternal Sunshine of the Spotless Mind",
+  "movie_year": 2004,
+  "rating": 5,
+  "review_text": "Beautiful and original love story.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "helpful_votes": 59,
+  "timestamp": "2024-02-11T12:05:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f72e9e787d1b02c92dc77"
+  },
+  "user_id": "user_1044",
+  "user_name": "Fernando Ruiz",
+  "movie_title": "El Hijo de la Novia",
+  "movie_year": 2001,
+  "rating": 4,
+  "review_text": "Conmovedora historia argentina.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "helpful_votes": 41,
+  "timestamp": "2024-02-12T15:20:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f72e9e787d1b02c92dc78"
+  },
+  "user_id": "user_1045",
+  "user_name": "Michelle Park",
+  "movie_title": "Parasite",
+  "movie_year": 2019,
+  "rating": 5,
+  "review_text": "Deserved all the Oscars.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "helpful_votes": 76,
+  "timestamp": "2024-02-13T17:35:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f72e9e787d1b02c92dc79"
+  },
+  "user_id": "user_1046",
+  "user_name": "Jorge Silva",
+  "movie_title": "Roma",
+  "movie_year": 2018,
+  "rating": 5,
+  "review_text": "Alfonso Cuarón en estado puro.",
+  "genres": [
+    "Drama"
+  ],
+  "helpful_votes": 52,
+  "timestamp": "2024-02-14T11:50:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f72e9e787d1b02c92dc7a"
+  },
+  "user_id": "user_1047",
+  "user_name": "Rachel Green",
+  "movie_title": "The Truman Show",
+  "movie_year": 1998,
+  "rating": 5,
+  "review_text": "Ahead of its time concept.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "helpful_votes": 63,
+  "timestamp": "2024-02-15T14:05:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f72e9e787d1b02c92dc7b"
+  },
+  "user_id": "user_1048",
+  "user_name": "Antonio Morales",
+  "movie_title": "Y Tu Mamá También",
+  "movie_year": 2001,
+  "rating": 4,
+  "review_text": "Road movie con profundidad filosófica.",
+  "genres": [
+    "Drama",
+    "Adventure"
+  ],
+  "helpful_votes": 48,
+  "timestamp": "2024-02-16T16:20:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f72e9e787d1b02c92dc7c"
+  },
+  "user_id": "user_1049",
+  "user_name": "Stephanie Brown",
+  "movie_title": "Black Swan",
+  "movie_year": 2010,
+  "rating": 4,
+  "review_text": "Psychological thriller masterpiece.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "helpful_votes": 55,
+  "timestamp": "2024-02-17T18:35:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f72e9e787d1b02c92dc7d"
+  },
+  "user_id": "user_1050",
+  "user_name": "Ricardo Vargas",
+  "movie_title": "El Crimen del Padre Amaro",
+  "movie_year": 2002,
+  "rating": 3,
+  "review_text": "Interesante pero predecible.",
+  "genres": [
+    "Drama"
+  ],
+  "helpful_votes": 25,
+  "timestamp": "2024-02-18T10:50:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f72e9e787d1b02c92dc7e"
+  },
+  "user_id": "user_1051",
+  "user_name": "Nathan Scott",
+  "movie_title": "Goodfellas",
+  "movie_year": 1990,
+  "rating": 5,
+  "review_text": "The best gangster film ever made.",
+  "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "helpful_votes": 71,
+  "timestamp": "2024-02-19T13:05:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f72e9e787d1b02c92dc7f"
+  },
+  "user_id": "user_1052",
+  "user_name": "Claudia Perez",
+  "movie_title": "Instructions Not Included",
+  "movie_year": 2013,
+  "rating": 4,
+  "review_text": "Eugenio Derbez en su mejor papel.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "helpful_votes": 42,
+  "timestamp": "2024-02-20T15:20:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f72e9e787d1b02c92dc80"
+  },
+  "user_id": "user_1053",
+  "user_name": "Brandon Wright",
+  "movie_title": "The Prestige",
+  "movie_year": 2006,
+  "rating": 5,
+  "review_text": "Brilliant plot twists.",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "helpful_votes": 66,
+  "timestamp": "2024-02-21T17:35:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f72e9e787d1b02c92dc81"
+  },
+  "user_id": "user_1054",
+  "user_name": "Gabriela Ortega",
+  "movie_title": "Amores Perros",
+  "movie_year": 2000,
+  "rating": 5,
+  "review_text": "Inarritu demostrando su genialidad.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "helpful_votes": 58,
+  "timestamp": "2024-02-22T19:50:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc89"
+  },
+  "user_id": "user_1055",
+  "user_name": "Andrea Lopez",
+  "movie_title": "The Shape of Water",
+  "movie_year": 2017,
+  "rating": 4,
+  "review_text": "Beautiful fairy tale for adults.",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "helpful_votes": 47,
+  "timestamp": "2024-02-23T11:15:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc8a"
+  },
+  "user_id": "user_1056",
+  "user_name": "Raul Jimenez",
+  "movie_title": "El Infierno",
+  "movie_year": 2010,
+  "rating": 5,
+  "review_text": "Cruda realidad del narcotráfico mexicano.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "helpful_votes": 58,
+  "timestamp": "2024-02-24T13:30:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc8b"
+  },
+  "user_id": "user_1057",
+  "user_name": "Jennifer Kim",
+  "movie_title": "Arrival",
+  "movie_year": 2016,
+  "rating": 5,
+  "review_text": "Intelligent and emotional sci-fi.",
+  "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "helpful_votes": 62,
+  "timestamp": "2024-02-25T15:45:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc8c"
+  },
+  "user_id": "user_1058",
+  "user_name": "Oscar Ramirez",
+  "movie_title": "Nosotros los Nobles",
+  "movie_year": 2013,
+  "rating": 4,
+  "review_text": "Divertida comedia mexicana.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "helpful_votes": 39,
+  "timestamp": "2024-02-26T17:00:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc8d"
+  },
+  "user_id": "user_1059",
+  "user_name": "Thomas Harris",
+  "movie_title": "Blade Runner 2049",
+  "movie_year": 2017,
+  "rating": 5,
+  "review_text": "Visual masterpiece and worthy sequel.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "helpful_votes": 71,
+  "timestamp": "2024-02-27T19:15:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc8e"
+  },
+  "user_id": "user_1060",
+  "user_name": "Luisa Fernandez",
+  "movie_title": "La Ley de Herodes",
+  "movie_year": 1999,
+  "rating": 4,
+  "review_text": "Sátira política muy acertada.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "helpful_votes": 33,
+  "timestamp": "2024-02-28T10:30:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc8f"
+  },
+  "user_id": "user_1061",
+  "user_name": "Brian Wilson",
+  "movie_title": "The Grand Budapest Hotel",
+  "movie_year": 2014,
+  "rating": 5,
+  "review_text": "Wes Anderson at his finest.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "helpful_votes": 64,
+  "timestamp": "2024-02-29T12:45:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc90"
+  },
+  "user_id": "user_1062",
+  "user_name": "Carmen Soto",
+  "movie_title": "El Callejón de los Milagros",
+  "movie_year": 1995,
+  "rating": 4,
+  "review_text": "Retrato social de México urbano.",
+  "genres": [
+    "Drama"
+  ],
+  "helpful_votes": 28,
+  "timestamp": "2024-03-01T14:00:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc91"
+  },
+  "user_id": "user_1063",
+  "user_name": "Daniel Lee",
+  "movie_title": "Her",
+  "movie_year": 2013,
+  "rating": 5,
+  "review_text": "Poetic and thought-provoking.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "helpful_votes": 59,
+  "timestamp": "2024-03-02T16:15:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc92"
+  },
+  "user_id": "user_1064",
+  "user_name": "Patricia Morales",
+  "movie_title": "Rudo y Cursi",
+  "movie_year": 2008,
+  "rating": 4,
+  "review_text": "Duelo actoral entre Diego Luna y Gael García.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Sport"
+  ],
+  "helpful_votes": 44,
+  "timestamp": "2024-03-03T18:30:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc93"
+  },
+  "user_id": "user_1065",
+  "user_name": "Kevin Johnson",
+  "movie_title": "Birdman",
+  "movie_year": 2014,
+  "rating": 5,
+  "review_text": "Brilliant one-shot technique.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "helpful_votes": 67,
+  "timestamp": "2024-03-04T20:45:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc94"
+  },
+  "user_id": "user_1066",
+  "user_name": "Sofia Mendoza",
+  "movie_title": "La Dictadura Perfecta",
+  "movie_year": 2014,
+  "rating": 4,
+  "review_text": "Sátira política muy actual.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "helpful_votes": 41,
+  "timestamp": "2024-03-05T09:00:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc95"
+  },
+  "user_id": "user_1067",
+  "user_name": "Michael Brown",
+  "movie_title": "Nightcrawler",
+  "movie_year": 2014,
+  "rating": 5,
+  "review_text": "Jake Gyllenhaal's best performance.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "helpful_votes": 73,
+  "timestamp": "2024-03-06T11:15:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc96"
+  },
+  "user_id": "user_1068",
+  "user_name": "Javier Ruiz",
+  "movie_title": "Matando Cabos",
+  "movie_year": 2004,
+  "rating": 4,
+  "review_text": "Comedia negra mexicana muy divertida.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "helpful_votes": 36,
+  "timestamp": "2024-03-07T13:30:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc97"
+  },
+  "user_id": "user_1069",
+  "user_name": "Amanda White",
+  "movie_title": "La La Land",
+  "movie_year": 2016,
+  "rating": 5,
+  "review_text": "Magical musical experience.",
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "helpful_votes": 68,
+  "timestamp": "2024-03-08T15:45:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc98"
+  },
+  "user_id": "user_1070",
+  "user_name": "Ricardo Castro",
+  "movie_title": "El Mariachi",
+  "movie_year": 1992,
+  "rating": 4,
+  "review_text": "Inicio de la carrera de Robert Rodriguez.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "helpful_votes": 32,
+  "timestamp": "2024-03-09T17:00:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc99"
+  },
+  "user_id": "user_1071",
+  "user_name": "Lisa Thompson",
+  "movie_title": "The Revenant",
+  "movie_year": 2015,
+  "rating": 4,
+  "review_text": "Breathtaking cinematography.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "helpful_votes": 61,
+  "timestamp": "2024-03-10T19:15:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc9a"
+  },
+  "user_id": "user_1072",
+  "user_name": "Alejandro Gomez",
+  "movie_title": "Cronos",
+  "movie_year": 1993,
+  "rating": 4,
+  "review_text": "Primera película de Guillermo del Toro.",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "helpful_votes": 29,
+  "timestamp": "2024-03-11T21:30:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc9b"
+  },
+  "user_id": "user_1073",
+  "user_name": "Rachel Adams",
+  "movie_title": "Ex Machina",
+  "movie_year": 2014,
+  "rating": 5,
+  "review_text": "Intelligent AI thriller.",
+  "genres": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "helpful_votes": 66,
+  "timestamp": "2024-03-12T08:45:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f758de787d1b02c92dc9c"
+  },
+  "user_id": "user_1074",
+  "user_name": "Hector Silva",
+  "movie_title": "Sicario",
+  "movie_year": 2015,
+  "rating": 5,
+  "review_text": "Intenso thriller sobre narcotráfico.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "helpful_votes": 57,
+  "timestamp": "2024-03-13T10:00:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dc9e"
+  },
+  "user_id": "user_1075",
+  "user_name": "Jason Miller",
+  "movie_title": "Dunkirk",
+  "movie_year": 2017,
+  "rating": 4,
+  "review_text": "Immersive war experience.",
+  "genres": [
+    "Action",
+    "Drama",
+    "History"
+  ],
+  "helpful_votes": 58,
+  "timestamp": "2024-03-14T12:15:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dc9f"
+  },
+  "user_id": "user_1076",
+  "user_name": "Elena Torres",
+  "movie_title": "Roma",
+  "movie_year": 2018,
+  "rating": 5,
+  "review_text": "Obra maestra del cine mexicano.",
+  "genres": [
+    "Drama"
+  ],
+  "helpful_votes": 63,
+  "timestamp": "2024-03-15T14:30:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dca0"
+  },
+  "user_id": "user_1077",
+  "user_name": "Brandon Clark",
+  "movie_title": "Mad Max: Fury Road",
+  "movie_year": 2015,
+  "rating": 5,
+  "review_text": "Action film perfection.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "helpful_votes": 82,
+  "timestamp": "2024-03-16T16:45:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dca1"
+  },
+  "user_id": "user_1078",
+  "user_name": "Gabriela Ortega",
+  "movie_title": "Amores Perros",
+  "movie_year": 2000,
+  "rating": 5,
+  "review_text": "Inarritu en su mejor momento.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "helpful_votes": 71,
+  "timestamp": "2024-03-17T18:00:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dca2"
+  },
+  "user_id": "user_1079",
+  "user_name": "Ryan Cooper",
+  "movie_title": "The Social Network",
+  "movie_year": 2010,
+  "rating": 5,
+  "review_text": "Perfect screenplay and pacing.",
+  "genres": [
+    "Biography",
+    "Drama"
+  ],
+  "helpful_votes": 69,
+  "timestamp": "2024-03-18T20:15:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dca3"
+  },
+  "user_id": "user_1080",
+  "user_name": "Lucia Hernandez",
+  "movie_title": "El Secreto de Sus Ojos",
+  "movie_year": 2009,
+  "rating": 5,
+  "review_text": "Increíble final y actuaciones.",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "helpful_votes": 55,
+  "timestamp": "2024-03-19T22:30:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dca4"
+  },
+  "user_id": "user_1081",
+  "user_name": "Nathan Scott",
+  "movie_title": "Whiplash",
+  "movie_year": 2014,
+  "rating": 5,
+  "review_text": "Intense and powerful.",
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "helpful_votes": 74,
+  "timestamp": "2024-03-20T09:45:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dca5"
+  },
+  "user_id": "user_1082",
+  "user_name": "Claudia Perez",
+  "movie_title": "Y Tu Mamá También",
+  "movie_year": 2001,
+  "rating": 5,
+  "review_text": "Road movie con profundidad existencial.",
+  "genres": [
+    "Drama",
+    "Adventure"
+  ],
+  "helpful_votes": 62,
+  "timestamp": "2024-03-21T11:00:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dca6"
+  },
+  "user_id": "user_1083",
+  "user_name": "Stephanie Brown",
+  "movie_title": "Get Out",
+  "movie_year": 2017,
+  "rating": 5,
+  "review_text": "Brilliant social horror.",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "helpful_votes": 78,
+  "timestamp": "2024-03-22T13:15:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dca7"
+  },
+  "user_id": "user_1084",
+  "user_name": "Ricardo Vargas",
+  "movie_title": "Instructions Not Included",
+  "movie_year": 2013,
+  "rating": 4,
+  "review_text": "Derbez demostrando su versatilidad.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "helpful_votes": 48,
+  "timestamp": "2024-03-23T15:30:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dca8"
+  },
+  "user_id": "user_1085",
+  "user_name": "Thomas Harris",
+  "movie_title": "The Departed",
+  "movie_year": 2006,
+  "rating": 5,
+  "review_text": "Masterclass in crime drama.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "helpful_votes": 72,
+  "timestamp": "2024-03-24T17:45:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dca9"
+  },
+  "user_id": "user_1086",
+  "user_name": "Mariana Lopez",
+  "movie_title": "Como Agua para Chocolate",
+  "movie_year": 1992,
+  "rating": 4,
+  "review_text": "Realismo mágico en el cine.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "helpful_votes": 41,
+  "timestamp": "2024-03-25T19:00:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dcaa"
+  },
+  "user_id": "user_1087",
+  "user_name": "Daniel White",
+  "movie_title": "The Prestige",
+  "movie_year": 2006,
+  "rating": 5,
+  "review_text": "Best plot twists in cinema.",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "helpful_votes": 81,
+  "timestamp": "2024-03-26T21:15:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dcab"
+  },
+  "user_id": "user_1088",
+  "user_name": "Carmen Reyes",
+  "movie_title": "El Laberinto del Fauno",
+  "movie_year": 2006,
+  "rating": 5,
+  "review_text": "Del Toro en su máxima expresión.",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "War"
+  ],
+  "helpful_votes": 66,
+  "timestamp": "2024-03-27T23:30:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dcac"
+  },
+  "user_id": "user_1089",
+  "user_name": "James Wilson",
+  "movie_title": "Inception",
+  "movie_year": 2010,
+  "rating": 5,
+  "review_text": "Mind-bending masterpiece.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "helpful_votes": 85,
+  "timestamp": "2024-03-28T08:45:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dcad"
+  },
+  "user_id": "user_1090",
+  "user_name": "Isabel Garcia",
+  "movie_title": "Roma",
+  "movie_year": 2018,
+  "rating": 5,
+  "review_text": "Fotografía y dirección impecables.",
+  "genres": [
+    "Drama"
+  ],
+  "helpful_votes": 59,
+  "timestamp": "2024-03-29T10:00:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dcae"
+  },
+  "user_id": "user_1091",
+  "user_name": "Mike Thompson",
+  "movie_title": "Interstellar",
+  "movie_year": 2014,
+  "rating": 5,
+  "review_text": "Scientific accuracy meets emotion.",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "helpful_votes": 77,
+  "timestamp": "2024-03-30T12:15:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dcaf"
+  },
+  "user_id": "user_1092",
+  "user_name": "Ana Martinez",
+  "movie_title": "Coco",
+  "movie_year": 2017,
+  "rating": 5,
+  "review_text": "Homenaje a la cultura mexicana.",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "helpful_votes": 68,
+  "timestamp": "2024-03-31T14:30:00Z",
+  "language": "es"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dcb0"
+  },
+  "user_id": "user_1093",
+  "user_name": "David Kim",
+  "movie_title": "The Matrix",
+  "movie_year": 1999,
+  "rating": 5,
+  "review_text": "Red pill or blue pill?",
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "helpful_votes": 83,
+  "timestamp": "2024-04-01T16:45:00Z",
+  "language": "en"
+},
+{
+  "_id": {
+    "$oid": "691f75c5e787d1b02c92dcb1"
+  },
+  "user_id": "user_1094",
+  "user_name": "Elena Vargas",
+  "movie_title": "Parasite",
+  "movie_year": 2019,
+  "rating": 5,
+  "review_text": "Crítica social brillante.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "helpful_votes": 74,
+  "timestamp": "2024-04-02T18:00:00Z",
+  "language": "es"
+}]
