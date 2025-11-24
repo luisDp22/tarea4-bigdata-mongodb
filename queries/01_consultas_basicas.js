@@ -1,44 +1,36 @@
-# En tu terminal/git bash
-mkdir Tarea4-MongoDB
-cd Tarea4-MongoDB
-mkdir queries data
+// CONSULTAS BÁSICAS - OPERACIONES CRUD
+// Tarea 4 - Big Data - UNAD
 
-# Crear el primer archivo
-touch queries/01_consultas_basicas.js
-// CONSULTAS CRUD BÁSICAS - CINEPLUS
+use cineplus
 
-// 1. INSERTAR una nueva reseña
+print("=== CONSULTAS BÁSICAS ===");
+
+// 1. CONSULTA DE SELECCIÓN
+print("1. Reseñas de 'Inception':");
+db.reviews.find({"movie_title": "Inception"});
+
+// 2. CONSULTA DE INSERCIÓN
+print("2. Insertar nueva reseña:");
 db.reviews.insertOne({
-    pelicula: "El Padrino",
-    usuario: "cinefilo_2024",
-    calificacion: 5,
-    resena: "Una obra maestra del cine. Actuaciones impecables.",
-    fecha: "2024-01-20",
-    genero: ["Drama", "Crimen"],
-    director: "Francis Ford Coppola",
-    ano_estreno: 1972
+  "user_id": "user_test",
+  "user_name": "Usuario Prueba",
+  "movie_title": "Avatar",
+  "movie_year": 2009,
+  "rating": 5,
+  "review_text": "Película de prueba",
+  "genres": ["Action", "Adventure"],
+  "helpful_votes": 0,
+  "timestamp": new Date(),
+  "language": "es"
 });
 
-// 2. CONSULTAR todas las reseñas
-db.reviews.find();
-
-// 3. CONSULTAR con formato legible
-db.reviews.find().pretty();
-
-// 4. ACTUALIZAR una reseña específica
+// 3. CONSULTA DE ACTUALIZACIÓN  
+print("3. Actualizar votos útiles:");
 db.reviews.updateOne(
-    { usuario: "cinefilo_2024" },
-    {
-        $set: {
-            calificacion: 4,
-            resena: "Excelente pelicula, aunque un poco larga."
-        }
-    }
+  {"user_id": "user_test"},
+  {$set: {"helpful_votes": 10}}
 );
 
-// 5. ELIMINAR una reseña
-db.reviews.deleteOne({ usuario: "cinefilo_2024" });
-
-// 6. CONTAR total de documentos
-db.reviews.countDocuments();
-       
+// 4. CONSULTA DE ELIMINACIÓN
+print("4. Eliminar documento de prueba:");
+db.reviews.deleteOne({"user_id": "user_test"});
