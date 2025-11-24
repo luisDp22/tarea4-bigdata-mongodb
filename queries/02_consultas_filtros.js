@@ -1,42 +1,25 @@
-// CONSULTAS CON FILTROS Y OPERADORES - CINEPLUS
+// CONSULTAS CON FILTROS Y OPERADORES
+// Tarea 4 - Big Data - UNAD
 
-// 1. Buscar reseñas con calificación mayor a 4
-db.reviews.find({ calificacion: { $gt: 4 } });
+use cineplus
 
-// 2. Buscar reseñas de películas de Acción o Ciencia Ficción
-db.reviews.find({ 
-    genero: { $in: ["Acción", "Ciencia Ficción"] } 
-});
+print("=== CONSULTAS CON FILTROS ===");
 
-// 3. Buscar reseñas entre 2023 y 2024
-db.reviews.find({
-    fecha: { 
-        $gte: "2023-01-01", 
-        $lte: "2024-12-31" 
-    }
-});
+// 1. OPERADOR DE COMPARACIÓN
+print("1. Reseñas con rating mayor a 4:");
+db.reviews.find({"rating": {"$gt": 4}});
 
-// 4. Buscar reseñas que contengan la palabra "excelente" (case insensitive)
-db.reviews.find({
-    resena: { $regex: /excelente/i }
-});
+// 2. OPERADOR DE ARRAY
+print("2. Reseñas de Sci-Fi o Action:");
+db.reviews.find({"genres": {"$in": ["Sci-Fi", "Action"]}});
 
-// 5. Buscar películas de un director específico y ordenar por año
-db.reviews.find({ 
-    director: "Christopher Nolan" 
-}).sort({ ano_estreno: 1 });
+// 3. FILTRO MÚLTIPLE
+print("3. Reseñas en español con rating 5:");
+db.reviews.find({"language": "es", "rating": 5});
 
-// 6. Contar reseñas por calificación
-db.reviews.aggregate([
-    {
-        $group: {
-            _id: "$calificacion",
-            total: { $sum: 1 }
-        }
-    }
-]);
-
-// 7. Buscar reseñas con calificación 5 y género Drama
+// 4. OPERADOR DE EXISTENCIA
+print("4. Reseñas que tienen texto:");
+db.reviews.find({"review_text": {"$exists": true, "$ne": ""}});ción 5 y género Drama
 db.reviews.find({
     $and: [
         { calificacion: 5 },
